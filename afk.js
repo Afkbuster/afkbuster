@@ -28,5 +28,5 @@ document.getElementById("fancy").addEventListener("click", newPage);
 function newPage()
  {
   //window.location.assign("http://www.youtube.com") 
-  window.open("hoppa.html")
+  window.open("password.html")
 }
